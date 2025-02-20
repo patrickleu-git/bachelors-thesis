@@ -1,2 +1,6 @@
-# bachelors-thesis
-Algorithmic Fairness and Optimal Policy Choice -- Exploring Different Fairness Metrics for Treatment Allocation
+# Algorithmic Fairness and Optimal Policy Choice -- Exploring Different Fairness Metrics for Treatment Allocation
+
+Submitted 21 May 2024 and supervised by Prof. PhD David Preinerstorfer
+
+### Abstract
+Optimally allocating individuals to treatments via elaborate decision rules constitutes a growing phenomenon in various policy areas. When algorithms exclusively aim at maximising welfare, however, they are prone to multiple biases. Hence, different fields of research have been focusing on locating and mitigating the source of those biases. At first, model-based approaches required treatment allocations to adhere to formal mathematical constraints. Only recently, consequentialist frameworks, focusing on the induced outcomes of decisions, became increasingly popular in policy learning. This thesis analyses efficiency-fairness trade-offs that may arise in diverse settings. We implement and compare three methods of treatment allocation, varying in the specific perspective adopted when assigning treatments. Our findings suggest that an outcome-oriented perspective leads to more efficient and more equitable results, underlining the merit of a more consequentialist approach to policy learning.
